@@ -10,6 +10,7 @@ public class IdeaGithubApplication {
 
         SpringApplication.run(IdeaGithubApplication.class, args);
         System.out.println();
+        System.out.println("hello");
     }
 
 }
