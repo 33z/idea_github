@@ -13,6 +13,7 @@ public class IdeaGithubApplication {
         System.out.println("hello");
         System.out.println();
         System.out.println("ni hao");
+        System.out.println("i am pmq");
     }
 
 }
